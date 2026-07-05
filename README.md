@@ -1,4 +1,3 @@
----CONTENT START---
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:388bfd&height=200&section=header&text=Hi%2C%20I'm%20Sham%20S%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Healthcare%20AI%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Predictive%20Analytics&descAlignY=56&descAlign=50" width="100%"/>
@@ -202,4 +201,4 @@ Customer churn analysis using data analytics and ML techniques to identify patte
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
----CONTENT END---
+
